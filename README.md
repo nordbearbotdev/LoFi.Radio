@@ -1,4 +1,4 @@
-## Lofimusic
+## LoFi.Radio
 
 Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 
